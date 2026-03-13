@@ -1,0 +1,5 @@
+query_type,rows,index,time
+SELECT,1000,0,320
+SELECT,1000,1,80
+UPDATE,500,0,150
+UPDATE,500,1,60
